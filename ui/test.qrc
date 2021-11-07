@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="Bakground-main">
+    <file>images/background_main.jpg</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>icons/edit-copy.png</file>
+    <file>icons/edit-cut.png</file>
+    <file>icons/edit-paste.png</file>
+    <file>icons/file-exit.png</file>
+    <file>icons/file-new.png</file>
+    <file>icons/file-open.png</file>
+    <file>icons/file-save.png</file>
+    <file>icons/file-saveas.png</file>
+    <file>icons/help-content.png</file>
+  </qresource>
+  <qresource prefix="ButtonExit">
+    <file>images/exit_button.jpg</file>
+  </qresource>
+  <qresource prefix="ButtonStart">
+    <file>images/start_button.jpg</file>
+  </qresource>
+  <qresource prefix="LabelPong">
+    <file>images/letras_titulo_pong.jpg</file>
+  </qresource>
+  <qresource prefix="ButtonScore">
+    <file>images/score_button.jpg</file>
+  </qresource>
+  <qresource prefix="ButtonInfo">
+    <file>images/info_button.jpg</file>
+  </qresource>
+</RCC>
