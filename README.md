@@ -8,4 +8,5 @@ Quedan todavía muchas cosas por hacer, quiero incluir un nuevo modo de juego ti
 añadir dificultades al juego y poder jugar contra otras personas en red. También estoy trabajando en un menú animado.
 
 Para ejecutar el juego utilizen el archivo Pong_main.py
+
 Espero que lo disfruten :)
